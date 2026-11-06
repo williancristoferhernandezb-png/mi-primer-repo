@@ -1,1 +1,1 @@
-hello
+“Estoy aprendiendo programación para trabajar en tecnología”
