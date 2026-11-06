@@ -1,1 +1,1 @@
-# mi-primer-repo
+“Estoy aprendiendo programación para trabajar en tecnología”
